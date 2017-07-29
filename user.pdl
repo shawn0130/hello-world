@@ -1,0 +1,5 @@
+#tsak/1
+
+printl/101 ("I come from HIEIN!");
+
+ret;
