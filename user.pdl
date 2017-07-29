@@ -1,5 +1,9 @@
+#long A;
+
 #tsak/1
 
 printl/101 ("I come from HIEIN!");
+
+A=1;
 
 ret;
